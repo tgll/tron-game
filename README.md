@@ -1,6 +1,6 @@
 # Courses projects
 
-### MIASHS
+### IUT
 
 Tron Game
 ---------
